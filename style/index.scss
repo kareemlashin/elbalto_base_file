@@ -1,0 +1,10 @@
+@import "./scss/base/_base.scss";
+@import "./scss/component/_nav.scss";
+@import "./scss/component/_header.scss";
+@import "./scss/modules/home.scss";
+@import "./scss/state/_mediaQuery";
+@import "./scss/theme/_ltr.scss";
+@import "./scss/theme/_rtl.scss";
+.class{
+    color: green;
+}
